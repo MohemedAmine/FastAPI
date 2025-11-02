@@ -31,8 +31,8 @@ A simple **FastAPI + SQLAlchemy + Jinja2** web application for managing **users 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/MohemedAmine/FastApi.git
+cd FastApi
 ```
 
 ### 2. Create a Virtual Environment
