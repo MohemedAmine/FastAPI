@@ -130,13 +130,6 @@ The app will be available at 👉 **http://127.0.0.1:8000**
 
 ---
 
-## 📸 Preview
-
-### 🧑 Users & Posts UI
-![App Screenshot](https://via.placeholder.com/800x400?text=FastAPI+Users+%26+Posts+App)
-
----
-
 ## 🧑‍💻 Author
 **Mohamed amine OULAD SAID**  
 📧 Email: mohamedamineouledsaid10@gmail.com
